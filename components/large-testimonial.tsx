@@ -29,17 +29,16 @@ export default function LargeTestimonial() {
                 alt="Large testimonial"
               />
             </div>
-            <p className="text-2xl font-bold text-gray-900">
-              “Simple has simplified my life in more ways than one. From
-              managing my sites to{" "}
-              <em className="italic text-gray-500">keeping track of tasks</em>,
-              it's become my go-to tool for everything.”
-            </p>
-            <div className="text-sm font-medium text-gray-500">
-              <span className="text-gray-700">Mary Sullivan</span>{" "}
-              <span className="text-gray-400">/</span>{" "}
+            <blockquote className="text-xl font-regular text-gray-900">
+              "Sempre gostei de vinhos, mas nunca imaginei que poderia entender tão profundamente sobre eles. Com o curso, aprendi a identificar sabores, harmonizar vinhos com pratos e até impressionar amigos em encontros. Hoje, me sinto mais confiante e apaixonada por esse universo. Recomendo para qualquer um que queira ir além de apenas apreciar uma taça!"
+            </blockquote>
+            <div className="text-gray-500">
+              <span className="text-gray-700">Renata</span>
+              <span className="text-gray-700">{" "}</span>
+              <span className="text-gray-700">-</span>
+              <span className="text-gray-700">{" "}</span>
               <a className="text-blue-500" href="#0">
-                CTO at Microsoft
+                Aluna do curso
               </a>
             </div>
           </div>
