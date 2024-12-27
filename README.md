@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-O objetivo deste projeto é criar um website para um curso de enologia. O website deve conter informações sobre o curso, a programação, os professores, os vinhos que serão degustados, entre outras informações.
+Website para um curso de enologia. O website contem informações sobre o curso, a programação, os professores, os vinhos que serão degustados, entre outras informações.
 
 ## Tecnologias
 
