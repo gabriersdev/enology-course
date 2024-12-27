@@ -37,7 +37,9 @@ const PricingTabs = () => {
             </div>
             <a
               className="w-full inline-flex justify-center whitespace-nowrap rounded-lg bg-pink-800 px-3.5 py-2.5 text-sm font-medium text-white shadow-sm shadow-indigo-950/10 hover:bg-pink-900 focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 transition-colors duration-150"
-              href="#0"
+              href="https://hotmart.com/pt-br/marketplace/produtos/curso-de-enologia-521960"
+              rel={"noreferrer noopener"}
+              target={"_blank"}
             >
               <span className={"text-[16px]"}>
                 Adquirir plano
@@ -108,7 +110,9 @@ const PricingTabs = () => {
             </div>
             <a
               className="w-full inline-flex justify-center whitespace-nowrap rounded-lg bg-pink-800 px-3.5 py-2.5 text-sm font-medium text-white shadow-sm shadow-indigo-950/10 hover:bg-pink-900 focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 transition-colors duration-150"
-              href="#0"
+              href="https://hotmart.com/pt-br/marketplace/produtos/curso-de-enologia-521960"
+              rel={"noreferrer noopener"}
+              target={"_blank"}
             >
               <span className={"text-[16px]"}>
                 Adquirir plano
