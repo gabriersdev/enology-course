@@ -9,8 +9,8 @@ export default function Video() {
           <span className={"text-black my-4"}>Seu navegador não suporta a reprodução de vídeos.</span>
         </video>
         
-        <div className={"text-white absolute bottom-6 left-6 mr-4 md:m-auto md:bottom-12 md:left-12 z-20 md:w-[80%]"}>
-          <h1 className={"text-2xl md:text-3xl lg:text-5xl font-semibold leading-loose text-balance"}>Aprenda a entender as notas dos vinhos mais marcantes e apreciar as maravilhas da vida!</h1>
+        <div className={"text-white absolute bottom-6 left-6 mr-4 md:m-auto md:bottom-12 md:left-12 z-20 sm:max-w-[800px]"}>
+          <h1 className={"text-2xl md:text-3xl lg:text-5xl font-semibold text-balance"}>Aprenda a entender as notas dos vinhos mais marcantes e apreciar as maravilhas da vida!</h1>
         </div>
       </div>
     </div>
