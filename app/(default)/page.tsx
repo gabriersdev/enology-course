@@ -1,5 +1,6 @@
 "use client";
 
+import Video from "@/components/video";
 import Hero from "@/components/hero-home";
 import Features from "@/components/features";
 import LargeTestimonial from "@/components/large-testimonial";
@@ -22,6 +23,7 @@ export default function Home() {
     <>
       <Hero/>
       <Features/>
+      <Video/>
       <Cta/>
       <LargeTestimonial/>
       <AdvCourse/>

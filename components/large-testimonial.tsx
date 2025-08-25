@@ -30,7 +30,7 @@ export default function LargeTestimonial() {
               />
             </div>
             <blockquote className="text-xl font-regular text-gray-900">
-              `&quot;`Sempre gostei de vinhos, mas nunca imaginei que poderia entender tão profundamente sobre eles. Com o curso, aprendi a identificar sabores, harmonizar vinhos com pratos e até impressionar amigos em encontros. Hoje, me sinto mais confiante e apaixonada por esse universo. Recomendo para qualquer um que queira ir além de apenas apreciar uma taça!`&quot;`
+              &quot;Sempre gostei de vinhos, mas nunca imaginei que poderia entender tão profundamente sobre eles. Com o curso, aprendi a identificar sabores, harmonizar vinhos com pratos e até impressionar amigos em encontros. Hoje, me sinto mais confiante e apaixonada por esse universo. Recomendo para qualquer um que queira ir além de apenas apreciar uma taça!&quot;
             </blockquote>
             <div className="text-gray-500">
               <span className="text-gray-700">Renata</span>

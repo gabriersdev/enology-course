@@ -7,7 +7,7 @@ const PricingTabs = () => {
       business: 497,
     },
   };
-
+  
   return (
     <div className="max-w-sm mx-auto grid gap-6 lg:grid-cols-2 items-start lg:max-w-[900px] py-12 md:py-20"
          id={"pricing"}>
@@ -42,7 +42,7 @@ const PricingTabs = () => {
               target={"_blank"}
             >
               <span className={"text-[16px]"}>
-                Adquirir plano
+                Adquirir curso
               </span>
             </a>
           </div>
@@ -77,7 +77,7 @@ const PricingTabs = () => {
           </ul>
         </div>
       </div>
-
+      
       {/* Pricing tab 2 */}
       <div className="h-full">
         <div
@@ -115,7 +115,7 @@ const PricingTabs = () => {
               target={"_blank"}
             >
               <span className={"text-[16px]"}>
-                Adquirir plano
+                Adquirir curso
               </span>
             </a>
           </div>
